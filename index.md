@@ -10,3 +10,7 @@ const b = 2;
 let sum = a + b;
 console.log( sum )
 ```
+
+- [x] sign in  to gitHub
+- [x] do markdown exercise
+- [ ] commit my changes
